@@ -27,12 +27,10 @@ All tools are **free to try** — guests get 2 conversions, and signing up unloc
 ## 🚀 Links
 
 - **Website**: [imagesilk.com](https://imagesilk.com)
-- **Product Hunt**: [ImageSilk on Product Hunt](https://www.producthunt.com/products/imagesilk) *(launching soon)*
-- **X / Twitter**: [@ImageSilk](https://x.com/ImageSilk) *(placeholder — will update when live)*
 
 ## 💬 Get in touch
 
-Found a bug? Want a feature? Have feedback on the conversion quality? Open an issue on the [imagesilk repo](https://github.com/YOUR-USERNAME/imagesilk) or reach out via the website.
+Found a bug? Want a feature? Have feedback on the conversion quality? Open an issue on the [imagesilk repo](https://github.com/hhwen88/imagesilk) or reach out via the website.
 
 ---
 
@@ -43,4 +41,4 @@ Found a bug? Want a feature? Have feedback on the conversion quality? Open an is
 <img width="1288" height="585" alt="image" src="https://github.com/user-attachments/assets/f4427310-1839-4ba1-a0d7-91b2b8bea036" />
 
 URL:https://imagesilk.com/
-地址:https://imagesilk.com/
+
